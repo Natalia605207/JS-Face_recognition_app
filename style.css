@@ -12,7 +12,6 @@ body {
   
   canvas {
     position: absolute;
-    width: 100%;
   }
 
   .container {
@@ -83,5 +82,9 @@ body {
 
     #age, #emotion, #gender {
         font-size: 16px;
+    }
+
+    canvas {
+        width: 100%;
     }
 }
